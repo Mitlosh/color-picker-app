@@ -52,6 +52,10 @@ header {
     width: 15%;
 }
 
+#range-slider:focus {
+    outline: none;
+}
+
 #text-output {
     font-size: 1.2rem;
     font-weight: 700;
